@@ -1,5 +1,6 @@
 # Multiple Linear Regression Predicting Cholesterol
-Multiple Linear Regression Predicting Cholesterol
+For the full presentation please read: https://github.com/benlaird/health-project/blob/master/Multiple%20Linear%20Regression%20predicting%20Cholesterol.pptx
+
 Chris Park and Ben Johnson-Laird
 
 National Health and Nutrition Examination Survey (NHANES) (2013-2016) 
