@@ -1,4 +1,4 @@
-# medical-project
+# Multiple Linear Regression Predicting Cholesterol
 Multiple Linear Regression Predicting Cholesterol
 Chris Park and Ben Johnson-Laird
 
